@@ -19,13 +19,13 @@ passenger took to board the train.
 
 To run this application, you will need to have the following software installed on your machine:
 
-- Java & Java Development Kit (JDK) <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
+- Java & Java Development Kit (JDK) <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 
-- `Prefered` NetBeans IDE
+- NetBeans IDE  `Prefered`
 
 ### Installation
 
-1. Clone the repository to your local machine: `git clone https://github.com/mahdiuahmed/Train-Booking-Program-Java`
+1. Clone the repository to your local machine: git clone https://github.com/mahdiuahmed/Train-Booking-Program-Java
 2. Open NetBeans (or prefered IDE) and select **File > Open Project**. Navigate to the project directory and open the project.
 3. In the NetBeans toolbar, select **Run > Clean and Build Project**. This will build the project and create a JAR file in the `target` directory.
 4. In the NetBeans toolbar, select **Run > Run Project**. This will run the application.
@@ -41,7 +41,7 @@ To use this application, follow these steps:
 
 This application was built with the following technologies:
 
-- Java <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
+- Java <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 
 - Maven
 - NetBeans IDE
